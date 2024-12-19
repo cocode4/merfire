@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-  apiKey: "AIzaSyDYIxhKel16CvDK24KvEFdpk0q4mQOLVVE",
+  apiKey: "your-api-key",
   authDomain: "phin-7bf20.firebaseapp.com",
   projectId: "phin-7bf20",
   storageBucket: "phin-7bf20.appspot.com",
